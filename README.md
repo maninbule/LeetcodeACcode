@@ -1,2 +1,4 @@
-# LeetcodeACcode
-leetcode零散题解，按照题目类型分类
+## 动态规划DP
+
+
+中级：[486. Predict the Winner](https://github.com/maninbule/LeetcodeACcode/issues/1)
